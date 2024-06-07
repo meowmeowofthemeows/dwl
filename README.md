@@ -163,6 +163,18 @@ inspiration, and to the various contributors to the project, including:
   and for helping to keep the project running
 - Stivvo for output management and fullscreen support, and patch maintenance
 
+## Patches
+
+- [bar](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/bar)
+- [barborder](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/barborder)
+- [barpadding](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/barpadding)
+- [gaps](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/gaps)
+- [borders](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/borders)
+- [hide_vacant_tags](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/hide_vacant_tags)
+- [relative-mouse-resize](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/relative-mouse-resize)
+- [warpcursor](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/warpcursor)
+- [xwayland-handle-minimize](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/xwayland-handle-minimize)
+
 
 [Discord server]: https://discord.gg/jJxZnrGPWN
 [#dwl on Libera Chat]: https://web.libera.chat/?channels=#dwl
